@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://lincon123:lincon123@cluster0.pz3m8.mongodb.net/merntest?retryWrites=true&w=majority"
+}
